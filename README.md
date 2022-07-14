@@ -1,7 +1,8 @@
 # Obsidian-homepage Tutorial
 don't forget to install the homepage above to take or get inspired by what you are interested in.
 
-![Screen_Recording_2022-07-14_at_11 28 25|100](https://user-images.githubusercontent.com/109313204/179085186-c0636946-8200-4e16-a93d-b7cccf946ccb.gif)
+https://user-images.githubusercontent.com/109313204/179099717-a861d187-0bb6-4e82-96d5-1802cb2cb532.mov
+
 
 #### Features 
 - Infobox functionality (with banner)
