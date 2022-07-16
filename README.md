@@ -2,6 +2,7 @@
 don't forget to install the homepage above to take or get inspired by what you are interested in.
 
 Showcase : https://forum.obsidian.md/t/obsidian-homepage-showcase-minimal-and-aesthetic-template-with-unique-features/40367
+
 https://user-images.githubusercontent.com/109313204/179099717-a861d187-0bb6-4e82-96d5-1802cb2cb532.mov
 
 
