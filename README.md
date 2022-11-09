@@ -1,45 +1,34 @@
-# Obsidian-homepage Tutorial
-don't forget to install the homepage above to take or get inspired by what you are interested in.
+# Farouk Homepage Tutorial 
+
+Install the homepage above to get some inspiration for the homepage structure.
 
 Showcase : https://forum.obsidian.md/t/obsidian-homepage-showcase-minimal-and-aesthetic-template-with-unique-features/40367
 
 https://user-images.githubusercontent.com/109313204/179099717-a861d187-0bb6-4e82-96d5-1802cb2cb532.mov
 
 
-#### Features 
-- Infobox functionality (with banner)
-- Automatic humanized greeting heading
-- Life progress (Thanks to https://github.com/SlRvb)
-- Obsidian activity
-- My style to navigate through the notes
+## Features 
+- **Infobox functionality** (with banner) (Thanks to [@SlRvb](https://github.com/SlRvb) ITS Callouts)
+- **Automatic humanized greeting heading**
+- **Life progress** (Thanks to [@SlRvb](https://github.com/SlRvb))
+- **Obsidian activity** 
+- **Countdown** (Thanks to [@cumany](https://github.com/cumany))
 
-## Infobox functionality (with banner)
-#### What do you need :
-- Download the CSS Snippets which are located in the folder Infbox. 
-  - ITS theme Image Adjustment.css
-  - ITS callouts (infobox).css
-  
-#### How to do it :
-First of all read this, it will tell you easily how it works. 
-- https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md
+## Infoboxes setup (The tables with the banner)
+1. Download the CSS Snippets from ITS Theme. 
+  - Link : https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css
+  - Or download directly from here.
+2. Read the callouts guide : https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md 
+  - Then, copy and paste the homepage.md and change it to your liking.
+3. If you want the images to be symmetrical and want to add pages or tables to the left or right like I did, just use the "[!multi-column]" function that is already included in ITS Callouts!
 
-Basically what I did, I took the infobox and I turned it into small boxes where I have all my other main pages linked and all separated into three categories where each category has its own banner depending on its "role" in my vault. 
-
-#### Your turn! :
-feel free to see it in the "00. Homepage.md" and create your own categories by changing the links and banners. Normally with the link I sent above, it will be a piece of cake for you.
 
 ## Automatic humanized greeting heading
-I'm not going to take too long on this, I've already created a post about it on the obsidian forum so don't hesitate to see it.
-- https://forum.obsidian.md/t/dataviewjs-get-an-automatic-humanized-morning-afternoon-evening-great-for-user-greetings/33351
-
-#### What do you need and How to do it :
-All you need is the Dataview plugin, then go to its settings and activate dataviewjs. With "00. Homepage.md" copy and paste the code and change the texts as you like. Voila you've done it.
+1. I've already created a post about it on the obsidian forum : https://forum.obsidian.md/t/dataviewjs-get-an-automatic-humanized-morning-afternoon-evening-great-for-user-greetings/33351?u=farouk
+2. All you need is the Dataview plugin. Go to its settings and activate dataviewjs. Copy and paste the code and change the texts as you like. 
 
 ## Life Progress
-Credit to @SlRvb for creating this wonderful code. 
-
-#### What do you need and How to do it :
-All you need is the Dataview plugin, then go to its settings and activate dataviewjs.
+1. All you need is the Dataview plugin. Go to its settings and activate dataviewjs.
 With "00. Life Progress.md", copy and paste the code and all you have to do is change the year, month and day corresponding to your birth date.
 Here :
 <br>
@@ -55,14 +44,10 @@ And then the progress bar will be set automatically with a percentage difference
 Your date of birth is for the "Life" line. The rest is already in the code, don't touch the rest if you don't know what you are doing! 
 
 ## Obsidian activity
-Credit to @Rainbell129 for this code.
+- With "00. Activity.md", copy and paste the code and you are done.
 
-#### What do you need and How to do it :
-With "00. Activity.md", copy and paste the code and you are done.
+## Countdown
+- With "00. Countdown.md", copy and paste the code and add/delete as you like. I recommend using the Blue Topaz theme if you want to have a sticker style.
 
-## My style to navigate through the notes
-I just wanted to share this for people who want easy navigation for their notes. It's simple, just put at the top of each page the link to the page before it. and do this to all your pages. this way you'll be faster and more efficient with your notes than looking through folders!
-Feel free to try it on "00. Homepage.md" by clicking on the link "Obsidian" inside the "Others" folder.
+Terminé.
 
-# Conclusion 
-There you go, you've learned everything about my homepage and you're ready to create your own. Don't hesitate to contact me if you want to discover my other off-homepage pages. Have a nice day and create the homepage of your dreams :).
