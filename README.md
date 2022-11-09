@@ -2,9 +2,8 @@
 
 Install the homepage above to get some inspiration for the homepage structure.
 
-Showcase : https://forum.obsidian.md/t/obsidian-homepage-showcase-minimal-and-aesthetic-template-with-unique-features/40367
-
-https://user-images.githubusercontent.com/109313204/179099717-a861d187-0bb6-4e82-96d5-1802cb2cb532.mov
+Showcase : 
+![Screenshot 2022-11-09 at 13 10 36](https://user-images.githubusercontent.com/109313204/200907518-3c004cc8-0d43-4096-bbab-662af99bbdf5.png)
 
 
 ## Features 
