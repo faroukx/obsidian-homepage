@@ -27,7 +27,7 @@ Showcase :
 2. All you need is the Dataview plugin. Go to its settings and activate dataviewjs. Copy and paste the code and change the texts as you like. 
 
 ## Life Progress
-1. All you need is the Dataview plugin. Go to its settings and activate dataviewjs.
+1. install Dataview plugin. Go to its settings and activate dataviewjs.
 With "00. Life Progress.md", copy and paste the code and all you have to do is change the year, month and day corresponding to your birth date.
 Here :
 <br>
@@ -38,9 +38,8 @@ For example, if I was born on 10/20/2000, I would write
 `month:` 10,
 `day:` 20
 
-And then the progress bar will be set automatically with a percentage difference of your age at the age of 80. You can change to any age by changing the "80" in the line of code you see in the image above.
-
-Your date of birth is for the "Life" line. The rest is already in the code, don't touch the rest if you don't know what you are doing! 
+2. And then the progress bar will be set automatically with a percentage difference of your age at the age of 80. You can change to any age by changing the "80" in the line of code you see in the image above.
+3. Your date of birth is for the "Life" line. The rest is already in the code.
 
 ## Obsidian activity
 - With "00. Activity.md", copy and paste the code and you are done.
