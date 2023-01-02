@@ -1,4 +1,7 @@
-# Farouk Homepage Tutorial 
+# Shiba Uni Theme tutorial by Farouk + Bonus: Homepage tutorial
+
+
+## Farouk Homepage Tutorial 
 
 Install the homepage above to get some inspiration for the homepage structure.
 
