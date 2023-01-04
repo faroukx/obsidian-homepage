@@ -1,4 +1,4 @@
-# Shiba Uni Theme tutorial by Farouk + Bonus: Homepage tutorial
+# Farouk's Homepage using Shiba Uni Theme
 
 
 ## Farouk Homepage Tutorial 
