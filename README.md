@@ -1,12 +1,13 @@
-# Farouk's Homepage using Shiba Uni Theme
+# Homepage
 
+A simple and minimal homepage for your vault using the new Shiba Uni theme!
 
-## Farouk Homepage Tutorial 
+#### Steps
 
-Install the homepage above to get some inspiration for the homepage structure.
+1. The only step you need is to **install the homepage in the repository**, everything is already in the Farouk's Homepage vault, including snippets. Feel free to take what you like from the homepage and thanks for supporting the Shiba Uni theme.
 
-Showcase : 
-![Screenshot 2022-11-09 at 13 10 36](https://user-images.githubusercontent.com/109313204/200907518-3c004cc8-0d43-4096-bbab-662af99bbdf5.png)
+#### Showcase  
+
 
 
 ## Features 
