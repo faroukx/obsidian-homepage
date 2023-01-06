@@ -1,0 +1,9 @@
+{
+  "style": "bullet",
+  "min_depth": 3,
+  "max_depth": 6,
+  "externalStyle": "None",
+  "supportAllMatchers": false,
+  "allow_inconsistent_headings": false,
+  "varied_style": true
+}
