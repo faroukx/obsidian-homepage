@@ -1,0 +1,16 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "【Main】ITS callouts (infobox, cards)",
+    "【Main】ITS theme Image Adjustment",
+    "【Main】MCL Multi Column",
+    "【Main】Minimal Cards",
+    "【Theme】clean embdeds all",
+    "【Tool】MInimal Circle Images",
+    "【Tool】MInimal Image Zoom"
+  ],
+  "baseFontSizeAction": false,
+  "cssTheme": "Shiba Uni"
+}
