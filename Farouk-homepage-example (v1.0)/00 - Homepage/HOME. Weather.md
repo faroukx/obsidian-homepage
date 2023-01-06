@@ -1,1 +1,0 @@
- <iframe src="weatherlink" title="Weather" frameborder="100" width="100%" height="250">
