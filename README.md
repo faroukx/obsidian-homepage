@@ -2,28 +2,30 @@
 
 A simple and minimal homepage for your vault using the new Shiba Uni theme!
 
-#### Steps
+## Steps
 
 1. The only step you need is to **install the homepage in the repository**, everything is already in the Farouk's Homepage vault, including snippets. Feel free to take what you like from the homepage and thanks for supporting the Shiba Uni theme.
 
 #### Showcase  
+<img src="https://github.com/faroukx/obsidian-homepage/blob/main/background.png?raw=true">
 
 
+# Features 
+- **Cards and Infobox functionality** (with banner) (By [@SlRvb](https://github.com/SlRvb) ITS Callouts)
+- **Automatic humanized greeting heading** (Not included in the theme but it's a simple copy paste here's [Link](https://forum.obsidian.md/t/dataviewjs-get-an-automatic-humanized-morning-afternoon-evening-great-for-user-greetings/33351?u=farouk))
+- **Life progress** (By[@SlRvb](https://github.com/SlRvb)) 
+- **Countdown** (By [@Rainbell](https://github.com/Rainbell129))
 
-## Features 
-- **Infobox functionality** (with banner) (Thanks to [@SlRvb](https://github.com/SlRvb) ITS Callouts)
-- **Automatic humanized greeting heading**
-- **Life progress** (Thanks to [@SlRvb](https://github.com/SlRvb))
-- **Obsidian activity** 
-- **Countdown** (Thanks to [@cumany](https://github.com/cumany))
+## Cards Layout Set-up (The cards with the banner)
+**This is a snippet made by SlRvb, here's a more clear tutorial from him:** 
 
-## Infoboxes setup (The tables with the banner)
-1. Download the CSS Snippets from ITS Theme. 
-  - Link : https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css
-  - Or download directly from here.
-2. Read the callouts guide : https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md 
-  - Then, copy and paste the homepage.md and change it to your liking.
-3. If you want the images to be symmetrical and want to add pages or tables to the left or right like I did, just use the "[!multi-column]" function that is already included in ITS Callouts!
+- [Download](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css)
+- [Guide](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md)
+
+**My tutorial:**
+1. After downloading the vault, go to `Farouk's Homepage - Shiba Uni/.obsidian/snippets`. 
+2. Drag the `【Main】ITS callouts (infobox, cards).css` to the `.obsidian/snippets` of your vault. (*you can change the name of the snippet if you want*)
+3. Then, copy and paste the homepage.md and change it to your liking.
 
 
 ## Automatic humanized greeting heading
@@ -32,10 +34,11 @@ A simple and minimal homepage for your vault using the new Shiba Uni theme!
 
 ## Life Progress
 1. install Dataview plugin. Go to its settings and activate dataviewjs.
-With "00. Life Progress.md", copy and paste the code and all you have to do is change the year, month and day corresponding to your birth date.
+With "Life Progress.md", copy and paste the code and all you have to do is change the year, month and day corresponding to your birth date.
 Here :
-<br>
-<img width="268" alt="Screen Shot 2022-07-14 at 17 41 19" src="https://user-images.githubusercontent.com/109313204/179091015-001548e0-822f-477c-b2eb-1ade8f150846.png">
+![lifeprogress](https://user-images.githubusercontent.com/109313204/210932453-406bc4da-2718-47d4-89ea-97c0b956c1a9.png)
+
+
 
 For example, if I was born on 10/20/2000, I would write
 `year:` 2000,
@@ -45,11 +48,11 @@ For example, if I was born on 10/20/2000, I would write
 2. And then the progress bar will be set automatically with a percentage difference of your age at the age of 80. You can change to any age by changing the "80" in the line of code you see in the image above.
 3. Your date of birth is for the "Life" line. The rest is already in the code.
 
-## Obsidian activity
-- With "00. Activity.md", copy and paste the code and you are done.
+
 
 ## Countdown
-- With "00. Countdown.md", copy and paste the code and add/delete as you like. I recommend using the Blue Topaz theme if you want to have a sticker style.
+- With "Countdown.md", copy and paste the code and add/delete as you like. z
 
-Terminé.
+---
+Merci!
 
