@@ -51,7 +51,7 @@ For example, if I was born on 10/20/2000, I would write
 
 
 ## Countdown
-- With "Countdown.md", copy and paste the code and add/delete as you like. z
+- With "Countdown.md", copy and paste the code and add/delete as you like. 
 
 ---
 Merci!
