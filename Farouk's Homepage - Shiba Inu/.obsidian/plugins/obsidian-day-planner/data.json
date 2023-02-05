@@ -1,0 +1,72 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "50 - Journal/510 - Daily notes/2022-03-29.md",
+      "date": "Tue Mar 29 2022"
+    },
+    {
+      "notePath": "50 - Journal/510 - Daily notes/2022-04-01.md",
+      "date": "Fri Apr 01 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/07/2022-07-02.md",
+      "date": "Sat Jul 02 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/07/2022-07-07.md",
+      "date": "Thu Jul 07 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-05.md",
+      "date": "Mon Sep 05 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-12.md",
+      "date": "Mon Sep 12 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-13.md",
+      "date": "Tue Sep 13 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-14.md",
+      "date": "Wed Sep 14 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-16.md",
+      "date": "Fri Sep 16 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-20.md",
+      "date": "Tue Sep 20 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-26.md",
+      "date": "Mon Sep 26 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/09/2022-09-29.md",
+      "date": "Thu Sep 29 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/10/2022-10-07.md",
+      "date": "Fri Oct 07 2022"
+    },
+    {
+      "notePath": "50 - Journal/2022/10/2022-10-08.md",
+      "date": "Sat Oct 08 2022"
+    },
+    {
+      "notePath": "50 - Journal/Daily/2022/12/2022-12-05.md",
+      "date": "Thu Dec 15 2022"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

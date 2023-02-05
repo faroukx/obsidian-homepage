@@ -1,0 +1,124 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "homepage:open-homepage",
+      "icon": "home",
+      "name": "Homepage: Open homepage",
+      "mode": "any",
+      "color": "#000000"
+    },
+    {
+      "id": "metaedit:metaEditRun",
+      "icon": "edit",
+      "name": "MetaEdit: Run MetaEdit",
+      "mode": "any"
+    },
+    {
+      "id": "dbfolder:create-new-database-folder",
+      "icon": "database",
+      "name": "DB Folder: Create a new database table",
+      "mode": "any"
+    },
+    {
+      "id": "workspaces:open-modal",
+      "icon": "lucide-layout",
+      "name": "Workspaces: Manage workspace layouts",
+      "mode": "any"
+    },
+    {
+      "id": "graph:open",
+      "icon": "lucide-git-fork",
+      "name": "Graph view: Open graph view",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-another-quick-switcher:search-command_recent-search",
+      "icon": "lucide-search",
+      "name": "Another Quick Switcher: Recent search",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-another-quick-switcher:search-command_recent-search",
+      "icon": "lucide-search",
+      "name": "Another Quick Switcher: Recent search",
+      "mode": "any"
+    },
+    {
+      "id": "omnisearch:show-modal",
+      "icon": "file-search",
+      "name": "Omnisearch: Vault search",
+      "mode": "any"
+    },
+    {
+      "id": "homepage:open-homepage",
+      "icon": "home",
+      "name": "Homepage: Open homepage",
+      "mode": "any"
+    },
+    {
+      "id": "backlink:toggle-backlinks-in-document",
+      "icon": "lucide-link",
+      "name": "Backlinks: Toggle backlinks in document",
+      "mode": "any"
+    },
+    {
+      "id": "editing-toolbar:fullscreen-focus",
+      "icon": "fullscreen",
+      "name": "Editing Toolbar: Fullscreen focus mode",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "privacy-glasses",
+      "backlink",
+      "editing-toolbar",
+      "obsidian-day-planner"
+    ],
+    "leftRibbon": [
+      "Advanced Tables Toolbar",
+      "Templater",
+      "Open quick switcher",
+      "Insert template",
+      "Open random note",
+      "Open format converter",
+      "Toggle Privacy Glasses",
+      "Open today",
+      "Memos",
+      "Omnisearch",
+      "Create a new database table",
+      "Manage workspace layouts",
+      "Open graph view",
+      "Open Markdown Table Editor",
+      "Homepage: Open homepage",
+      "3D Graph",
+      "Obsidian_to_Anki - Scan Vault",
+      "Create new canvas",
+      "Open command palette",
+      "surfing-bookmark-manager"
+    ]
+  },
+  "spacing": "10",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 3,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
