@@ -1,10 +1,10 @@
 # Homepage
 
-A simple and minimal homepage for your vault using the new Shiba Uni theme!
+A simple and minimal homepage for your vault using the new Shiba Inu theme!
 
 ## Steps
 
-1. The only step you need is to **install the homepage in the repository**, everything is already in the Farouk's Homepage vault, including snippets. Feel free to take what you like from the homepage and thanks for supporting the Shiba Uni theme.
+1. The only step you need is to **install the homepage in the repository**, everything is already in the Farouk's Homepage vault, including snippets. Feel free to take what you like from the homepage and thanks for supporting the Shiba Inu theme.
 
 #### Showcase  
 <img src="https://github.com/faroukx/obsidian-homepage/blob/main/background.png?raw=true">
@@ -23,7 +23,7 @@ A simple and minimal homepage for your vault using the new Shiba Uni theme!
 - [Guide](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md)
 
 **My tutorial:**
-1. After downloading the vault, go to `Farouk's Homepage - Shiba Uni/.obsidian/snippets`. 
+1. After downloading the vault, go to `Farouk's Homepage - Shiba Inu/.obsidian/snippets`. 
 2. Drag the `【Main】ITS callouts (infobox, cards).css` to the `.obsidian/snippets` of your vault. (*you can change the name of the snippet if you want*)
 3. Then, copy and paste the homepage.md and change it to your liking.
 
