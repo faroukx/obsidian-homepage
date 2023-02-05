@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "autoConvertHtml": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Obsidian/Attachements",
+  "showInlineTitle": false,
+  "livePreview": false
+}
