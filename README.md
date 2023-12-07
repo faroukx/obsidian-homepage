@@ -63,6 +63,9 @@ For example, if I was born on 10/20/2000, I would write
 ## Countdown
 - With "Countdown.md", copy and paste the code and add/delete as you like. 
 
----
-Merci!
+## Support
+- Consider supporting via [Buy Me A Coffee](https://www.buymeacoffee.com/faroukx).
+
+Thank you for exploring Farouk's Homepage - Shiba Inu Theme!
+
 
