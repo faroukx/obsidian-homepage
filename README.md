@@ -2,13 +2,23 @@
 
 A simple and minimal homepage for your vault using the new Shiba Inu theme!
 
-## Steps
-
-1. The only step you need is to **install the homepage in the repository**, everything is already in the Farouk's Homepage vault, including snippets. Feel free to take what you like from the homepage and thanks for supporting the Shiba Inu theme.
-
-#### Showcase  
 <img src="https://github.com/faroukx/obsidian-homepage/blob/main/background.png?raw=true">
 
+
+<div align="center">
+	<a href="https://github.com/faroukx/obsidian-homepage/stargazers"><img src="https://img.shields.io/github/stars/faroukx/obsidian-homepage?color=8a7840&style=for-the-badge&labelColor=%23252525&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABvUlEQVRIieWTwUsUYRjGf8+3EoRdlG52SHDbzU0o2tkNwbP/gHjtpqJBRR0iiAo6GgglgdDBc/0Xhelut4pmdoMU6iJCl6BD7rwdbGq3ZrZvpEv0wsDwfc/z/J6PmQ/+q7FGedK2xqfyeAZyMu7gYgOmfQ3yFdrm6Qs4ewGAi6dUbT338TlfAM5u/3iPCzd9bV4nsM3yeRzNHr3iuoJW44+9vGoUuPtbGXO3fKyZJ7CXp47TcUVkAWglRWtgVzA1KcRtVVt7mQDbKo2CLiKKQBExhjHk07Ar6RPGO6CN0QZbVz16fwAwRLP0ELSYKzQTZo+pRnMSsQOQMILoEuLBX4hfS8Kh6yNLGNXwMtjK4bP1iCBcSMJ7AAlEtegq6N4h0pdVe7soYT2ZWWprlJeBa57h91ULr6dt9LkH9sYzHOB11kYfgCo5AJnafjf5TA5ApjYv4NX359eZyAWwZxNDwMjPBXYQ82yH5wjCs5jNAu0uy4htVIa9ARzpJO13Md1geL+kIFzTLB2JWPXoCW6wgpgHPh54vo6nRaX+ptYszWA6yf7nVU1++JJaItFunDjKwLElZNsKoqf9tP/mfANgQ4DZEhtxewAAAABJRU5ErkJggg==" /></a>
+	<a href="https://github.com/faroukx/obsidian-homepage/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/faroukx/obsidian-homepage?color=%23A31F34&style=for-the-badge&labelColor=%23252525&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAV0lEQVQ4jWNkYGBgqOie85+BDNBRmsLIAuO0lySTpLmyZy4DAwMDAxM5NiMDig1gQReo7JnL0F6SDHciOkD3KoYBMAXEhsmoCwaDCwY+JVIvKeMKNEIAAB9dK8YXTwb/AAAAAElFTkSuQmCC" /></a>
+	<br />
+	<br />
+	<a href="https://www.buymeacoffee.com/faroukx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee!&emoji=&slug=faroukx&button_colour=D7BB00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+	<br />   
+</div>
+
+
+# Quick Start
+- **Install**: Download file: `Farouk's Homepage - Shiba Inu` from the repository into your vault to get started.
+- **Customize**: Feel free to modify and use any part of the homepage as you like. 
+_Thanks for supporting the Shiba Inu theme!_
 
 # Features 
 - **Cards and Infobox functionality** (with banner) (By [@SlRvb](https://github.com/SlRvb) ITS Callouts)
